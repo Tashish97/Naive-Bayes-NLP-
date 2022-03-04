@@ -1,5 +1,5 @@
 # Naive Bayes
-Description:
+This is a project done using Naive Bayes Classifier to filter/detect spam mails.  
 Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature. For example, a fruit may be considered to be an apple if it is red, round, and about 3 inches in diameter. It's based on bayes theorem.  
 
 ## Work Done:  
