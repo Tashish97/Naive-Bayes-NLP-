@@ -10,3 +10,4 @@ Naive Bayes classifier assumes that the presence of a particular feature in a cl
 2. Converted the text data to both bag of words data and tfidf data.  
 3. Done hyperparameter tuning using GridSearchCv for both bow and tfidf data.  
 4. Confusion matrix and ROC-AUC curve for validation.  
+**Please look into the pdf for quick look at my work**
